@@ -45,7 +45,7 @@ Infinity Nikki Theme Cursors for Windows and macOS.
 - 每个内嵌 4 种分辨率 (48/96/240/480)，自适应 100%~300% 显示缩放。
    
 ### Windows:
-下载本仓库的zip [无限暖暖-02-Windows-v6.zip](https://github.com/StarryCursor/wuxiannuannuan-nikki-cursors/blob/main/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%9603_Windows_CUR%E5%85%89%E6%A0%87%E5%8C%85.zip)，解压全部文件。
+下载本仓库的zip [无限暖暖03_Windows_CUR光标包.zip](https://github.com/StarryCursor/wuxiannuannuan-nikki-cursors/blob/main/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%9603_Windows_CUR%E5%85%89%E6%A0%87%E5%8C%85.zip)，解压全部文件。
 
 【快速安装方法】
 1. 打开 `Recommended_Windows_Scheme` 文件夹。
